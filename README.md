@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0212-word-search-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0212-word-search-ii) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
