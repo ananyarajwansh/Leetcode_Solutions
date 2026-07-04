@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0212-word-search-ii) |
+| [1143-longest-common-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
