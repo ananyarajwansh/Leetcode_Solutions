@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
