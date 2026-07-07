@@ -106,5 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
