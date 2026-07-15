@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
