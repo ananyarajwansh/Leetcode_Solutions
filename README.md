@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0743-network-delay-time) |
@@ -149,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
