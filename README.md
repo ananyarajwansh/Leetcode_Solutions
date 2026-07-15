@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
