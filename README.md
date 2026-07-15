@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Math
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
