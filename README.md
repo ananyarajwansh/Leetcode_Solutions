@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
