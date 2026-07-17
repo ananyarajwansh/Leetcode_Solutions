@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0212-word-search-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -197,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
