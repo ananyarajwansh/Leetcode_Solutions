@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Heap (Priority Queue)
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Bit Manipulation
