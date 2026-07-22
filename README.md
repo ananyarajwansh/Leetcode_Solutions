@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
@@ -229,6 +232,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
