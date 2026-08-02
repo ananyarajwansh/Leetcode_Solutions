@@ -13,13 +13,13 @@
  *     }
  * }
  */
-
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
         return build(nums, 0, nums.length - 1);
     }
 
     private TreeNode build(int[] nums, int left, int right) {
+
         if (left > right)
             return null;
 
