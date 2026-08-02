@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/ananyarajwansh/Leetcode_Solutions/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |
